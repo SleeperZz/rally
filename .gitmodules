@@ -1,0 +1,6 @@
+[submodule "rally-map"]
+	path = rally-map
+	url = git@github.com:1tpp/rally-map.git
+[submodule "rally-api"]
+	path = rally-api
+	url = git@github.com:1tpp/rally-api.git

@@ -1,2 +1,1 @@
-# rally
-# rally
+# Rally - Road Trip Planner
